@@ -7,4 +7,6 @@ function TodoList({ children }) {
     </ul>
   );
 }
-export { TodoList }
+
+export { TodoList };
+
